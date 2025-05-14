@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41cc8077-659d-4970-b328-9eeea6fa47a3)# Passaro-Tsuru
+# Passaro-Tsuru
 
 - Pegue uma folha em Branco.
 
@@ -86,3 +86,15 @@
 - Vai ficar assim dos dois lados
 
   ![image](https://github.com/user-attachments/assets/c773a2ff-0d91-42ce-993c-30e00671e856)
+
+- Abra a lateral e coloque dentro da parte superior, ficando assim, faça de ambas as laterais
+
+  ![image](https://github.com/user-attachments/assets/fed5c37a-504a-45ca-9e1c-74711da8e28e)
+
+- Ficando assim o resultado
+
+  ![image](https://github.com/user-attachments/assets/4ca17b1a-cd5a-4869-9316-7c932c11c7b2)
+
+- Descendo as asas e ajustando a cabeça e o rabo, consegue-se o Tsuru
+
+  ![image](https://github.com/user-attachments/assets/056c03eb-0a5e-4e82-9054-fda9baaf4634)
